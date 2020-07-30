@@ -22,3 +22,11 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+Bonjour,
+
+Merci de vous assurer d'avoir la bonne version Ruby 2.5.1 ou 2.7.1 ainsi que Rails 5.2.4.2.
+
+Voici une application qui vous permettra de prendre un RDV avec un docteur dans votre ville.
+
+Bon retablissement.
